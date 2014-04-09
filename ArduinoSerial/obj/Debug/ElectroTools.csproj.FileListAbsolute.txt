@@ -1,0 +1,9 @@
+c:\users\rado\documents\visual studio 2012\Projects\ElectroTools\ElectroTools\bin\Debug\ElectroTools.exe.config
+c:\users\rado\documents\visual studio 2012\Projects\ElectroTools\ElectroTools\bin\Debug\ElectroTools.exe
+c:\users\rado\documents\visual studio 2012\Projects\ElectroTools\ElectroTools\bin\Debug\ElectroTools.pdb
+c:\users\rado\documents\visual studio 2012\Projects\ElectroTools\ElectroTools\obj\Debug\ElectroTools.csprojResolveAssemblyReference.cache
+c:\users\rado\documents\visual studio 2012\Projects\ElectroTools\ElectroTools\obj\Debug\ElectroTools.Main.resources
+c:\users\rado\documents\visual studio 2012\Projects\ElectroTools\ElectroTools\obj\Debug\ElectroTools.Properties.Resources.resources
+c:\users\rado\documents\visual studio 2012\Projects\ElectroTools\ElectroTools\obj\Debug\ElectroTools.csproj.GenerateResource.Cache
+c:\users\rado\documents\visual studio 2012\Projects\ElectroTools\ElectroTools\obj\Debug\ElectroTools.exe
+c:\users\rado\documents\visual studio 2012\Projects\ElectroTools\ElectroTools\obj\Debug\ElectroTools.pdb

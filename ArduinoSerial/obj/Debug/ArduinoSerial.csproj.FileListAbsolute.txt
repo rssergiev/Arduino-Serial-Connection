@@ -1,0 +1,12 @@
+C:\Users\Rado\Documents\Visual Studio 2012\Projects\ElectroTools\ElectroTools\bin\Debug\ElectroTools.exe.config
+C:\Users\Rado\Documents\Visual Studio 2012\Projects\ElectroTools\ElectroTools\bin\Debug\ElectroTools.exe
+C:\Users\Rado\Documents\Visual Studio 2012\Projects\ElectroTools\ElectroTools\bin\Debug\ElectroTools.pdb
+C:\Users\Rado\Documents\Visual Studio 2012\Projects\ElectroTools\ElectroTools\obj\Debug\ArduinoSerial.csprojResolveAssemblyReference.cache
+C:\Users\Rado\Documents\Visual Studio 2012\Projects\ElectroTools\ElectroTools\obj\Debug\ArduinoSerial.csproj.GenerateResource.Cache
+C:\Users\Rado\Documents\Visual Studio 2012\Projects\ElectroTools\ElectroTools\obj\Debug\ElectroTools.exe
+C:\Users\Rado\Documents\Visual Studio 2012\Projects\ElectroTools\ElectroTools\obj\Debug\ElectroTools.pdb
+C:\Users\Rado\Documents\Visual Studio 2012\Projects\ElectroTools\ElectroTools\obj\Debug\ArduinoSerial.Main.resources
+C:\Users\Rado\Documents\Visual Studio 2012\Projects\ElectroTools\ElectroTools\obj\Debug\ArduinoSerial.Properties.Resources.resources
+C:\Users\Rado\Documents\Visual Studio 2012\Projects\ElectroTools\ArduinoSerial\bin\Debug\ElectroTools.exe.config
+C:\Users\Rado\Documents\Visual Studio 2012\Projects\ElectroTools\ArduinoSerial\obj\Debug\ElectroTools.exe
+C:\Users\Rado\Documents\Visual Studio 2012\Projects\ElectroTools\ArduinoSerial\obj\Debug\ElectroTools.pdb
